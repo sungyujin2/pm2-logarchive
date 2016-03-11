@@ -1,0 +1,15 @@
+{
+    "archivetime" : 1000,
+    "deleteoption": false,
+    "root": "/Users/coryjin/.pm2/logs",
+    "observetime": 6000,
+    "s3Options": {
+        "accessKeyId": "AKIAJTNUZPILI4KPZHYA",
+        "secretAccessKey": "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",
+        "region": "ap-northeast-1"
+    },
+    "archive": {
+    	"bucket": "testputbucket",
+    	"root": "logs/"
+    }
+}
